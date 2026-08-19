@@ -16,4 +16,3 @@ A modern, glassmorphic Railway Reservation Web Application built using Python, S
    ```env
    GEMINI_API_KEY=AIzaSy...
 
-   <img width="1895" height="920" alt="Screenshot 2026-08-03 131919" src="https://github.com/user-attachments/assets/b5005ca0-36e9-4193-bfca-a3531fd60a6f" />
